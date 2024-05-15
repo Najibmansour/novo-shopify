@@ -90,7 +90,55 @@
             "collection": ""
           }
         },
+        "featured_collection_riUQfA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "featured_collection_NpAGrX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_YHq3MD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_y3pxUm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_C9nBr4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_jyXRdY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_XXfEJj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_n3VNen": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_t93BFW": {
           "type": "featured_collection",
           "settings": {
             "collection": ""
@@ -100,7 +148,15 @@
       "block_order": [
         "featured_collection_XrhP4G",
         "featured_collection_qX8qWW",
-        "featured_collection_NpAGrX"
+        "featured_collection_riUQfA",
+        "featured_collection_NpAGrX",
+        "featured_collection_YHq3MD",
+        "featured_collection_y3pxUm",
+        "featured_collection_C9nBr4",
+        "featured_collection_jyXRdY",
+        "featured_collection_XXfEJj",
+        "featured_collection_n3VNen",
+        "featured_collection_t93BFW"
       ],
       "settings": {
         "title": "EXPLORE OUR BRANDS",
