@@ -1078,6 +1078,10 @@ a.product__text {
   overflow: hidden !important;
 }
 
+.product__media img {
+  border-radius: 9999px !important;
+}
+
 .thumbnail[aria-current]:focus-visible {
   box-shadow: 0 0 0 0.3rem rgb(var(--color-background)), 0 0 0rem 0.5rem rgba(var(--color-foreground), 0.5);
 }
