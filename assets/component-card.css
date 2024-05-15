@@ -116,6 +116,7 @@
 
 .card__inner {
   width: 100%;
+  border-radius: 2.5rem;
 }
 
 .card--media .card__inner .card__content {
