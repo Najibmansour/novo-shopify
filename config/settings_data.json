@@ -400,8 +400,7 @@
     "custom_css": [
       "footer {border-top-left-radius: 2.5rem; border-top-right-radius: 2.5rem;}",
       ".header {border-bottom-left-radius: 2.5rem; border-bottom-right-radius: 2.5rem;}",
-      ".product-media-container {border-radius: 2.5rem;}",
-      ".field__input::before{border-radius: 10px;}"
+      ".product-media-container {border-radius: 2.5rem;}"
     ]
   }
 }
