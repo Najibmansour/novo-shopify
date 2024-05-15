@@ -1674,6 +1674,7 @@ details[open] > .share-button__fallback {
 /* Field */
 
 .field {
+  border-radius: 9999px;
   position: relative;
   width: 100%;
   display: flex;
