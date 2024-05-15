@@ -1889,6 +1889,7 @@ input[type='checkbox'] {
 }
 
 .quantity__input {
+  border-radius: 2.5rem;
   color: currentColor;
   font-family: var(--font-body-family);
   font-style: var(--font-body-style);
