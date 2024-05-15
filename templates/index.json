@@ -78,7 +78,7 @@
     "custom_liquid_U4bQXp": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div>Shopify Custom Liquid<\/div>",
+        "custom_liquid": "<div class=\"test\">Shopify Custom Liquid<\/div>\n<style>\n.test{\nwidth:100%;\n}\n<\/style>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
