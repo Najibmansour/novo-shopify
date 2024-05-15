@@ -1079,7 +1079,7 @@ a.product__text {
 }
 
 .product__media img {
-  border-radius: 9999px !important;
+  border-radius: 2.5rem !important;
 }
 
 .thumbnail[aria-current]:focus-visible {
