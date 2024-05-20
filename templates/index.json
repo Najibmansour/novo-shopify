@@ -50,6 +50,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        ".featured-products{border-top-right-radius: 2.5rem;}"
+      ],
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
