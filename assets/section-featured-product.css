@@ -1,4 +1,6 @@
 .featured-product .product__media-list {
+  border-top-right-radius: 2.5rem;
+  border-top-left-radius: 2.5rem;
   width: 100%;
   margin: 0;
   padding-bottom: 0;
